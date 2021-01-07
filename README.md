@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 ![fandongtongxue's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=fandongtongxue&hide=objective-c)
 ![fandongtongxue's github stats](https://github-readme-stats.vercel.app/api?username=fandongtongxue&show_icons=true)
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fandongtongxue&theme=onedark" alt="fandongtongxue" /></a> </p>
