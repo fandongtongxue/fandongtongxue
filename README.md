@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![fandongtongxue's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=fandongtongxue&hide=objective-c)
-![fandongtongxue's github stats](https://github-readme-stats.vercel.app/api?username=fandongtongxue&show_icons=true)
